@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vibble.github.io/al-folio/sitemap.xml
+Sitemap: https://vibbel.github.io/sitemap.xml
