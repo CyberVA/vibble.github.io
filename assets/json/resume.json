@@ -1,69 +1,53 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Vincent J. Allen",
+    "label": "Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "vcent.allen@gmail.com",
+    "phone": "(425) 399-0274",
+    "url": "https://vibbel.github.io",
+    "summary": "----",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "98292",
+      "city": "Seattle",
       "countryCode": "US",
-      "region": "California"
+      "region": "Washington"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "vcent-allen",
+        "url": "https://www.linkedin.com/in/vcent-allen/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "The Northface",
+      "position": "Stock Associate",
+      "startDate": "July 2022",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "University of Washington Bothell",
+      "location": "Bothell, WA",
+      "url": "https://www.uwb.edu/",
+      "area": "Computer Science and Software Engineering",
+      "studyType": "Bachelors",
+      "startDate": "September 2019",
+      "endDate": "August 2023",
+      "GPA": "3.33",
       "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "SnoIsle Foundation Super Showcase Winner",
+      "date": "2017 - 2018",
+      "awarder": "SnoIsle Foundation",
+      "summary": "First place winner for the SnoIsle Foundation Super Showcase, a regional competition where new game developers from across the Pacific Northwest come together to showcase their works"
     }
   ],
   "certificates": [
@@ -135,18 +119,70 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "General",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Problem Solving",
+        "Communication",
+        "Collaboration",
+        "Time Management",
+        "Adaptability",
+        "Leadership",
+        "Project Management",
+        "Conflict Resolution",
+        "Multitasking",
+        "Google Suite",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C++",
+        "C#",
+        "Python",
+        "Javascript",
+        "Java",
+        "GLSL",
+        "HLSL",
+        "HTML",
+        "CSS",
+        "GDScript",
+        "LUA"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Front End",
+        "Back End",
+        "Algorithms",
+        "Data Structures",
+        "Agile Development",
+        "Version Control",
+        "SCRUM"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Unity Engine",
+        "Godot",
+        "Graphics Programming",
+        "OpenGL",
+        "Rendering Techniques",
+        "Game Mechanics",
+        "User Interface"
       ]
     }
+
   ],
   "languages": [
     {
