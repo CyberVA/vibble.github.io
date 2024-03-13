@@ -6,7 +6,6 @@
     "email": "vcent.allen@gmail.com",
     "phone": "(425) 399-0274",
     "url": "https://vibbel.github.io",
-    "summary": "----",
     "location": {
       "postalCode": "98292",
       "city": "Seattle",
@@ -25,7 +24,7 @@
     {
       "name": "The Northface",
       "position": "Stock Associate",
-      "startDate": "07 - 2022",
+      "startDate": "07-2022",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     }
   ],
@@ -36,8 +35,8 @@
       "url": "https://www.uwb.edu/",
       "area": "Computer Science and Software Engineering",
       "studyType": "Bachelors",
-      "startDate": "09 - 2019",
-      "endDate": "08 - 2023",
+      "startDate": "09-2019",
+      "endDate": "08-2023",
       "GPA": "3.33",
       "courses": ["Theory of Relativity"]
     }
@@ -45,7 +44,7 @@
   "awards": [
     {
       "title": "SnoIsle Foundation Super Showcase Winner",
-      "date": "06 - 2018",
+      "date": "06-2018",
       "awarder": "SnoIsle Foundation",
       "summary": "First place winner for the SnoIsle Foundation Super Showcase, a regional competition where new game developers from across the Pacific Northwest come together to showcase their works"
     }
@@ -122,16 +121,16 @@
       "name": "MechaPunk Fury",
       "summary": "2D side-scrolling beat-em up capstone game where the player fights through hordes of various punk themed enemies.",
       "highlights": ["SCRUM", "OOP", "C#", "Unity", "VFX", "Technical Art", "Shaders", "Git", "Visual Studio"],
-      "startDate": "05 - 2023",
-      "endDate": "08 - 2023",
+      "startDate": "05-2023",
+      "endDate": "08-2023",
       "url": "https://vibble.itch.io/mechapunk-fury"
     },
     {
       "name": "Web-Based Game Engine",
       "summary": "JavaScript game engine for designing 2D web games and learning rendering techniques.",
-      "highlights": ["SJavascript", "Git", "Algorithms", "Shader Pipeline", "Multithreading", "Engine Design"],
-      "startDate": "01 - 2022",
-      "endDate": "03 - 2022"
+      "highlights": ["Javascript", "Git", "Algorithms", "Shader Pipeline", "Multithreading", "Engine Design"],
+      "startDate": "01-2022",
+      "endDate": "03-2022"
     }
   ]
 }
