@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: 
 
 profile:
   align: right
@@ -20,3 +21,4 @@ social: true # includes social icons at the bottom of the page
 I'm a software engineer and game developer with a deep passion for the technical side of crafting immersive game experiences. Leveraging my skills in gameplay programming, engine development, and rendering techniques, I bridge the gap between creative vision and playable reality. 
 
 Fueled by a strong foundation in computer science and the arts, I'm constantly seeking opportunities to expand my technical knowledge and push the boundaries of what I am capable of.
+
