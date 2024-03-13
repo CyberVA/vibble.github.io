@@ -47,83 +47,32 @@
       "name": "General",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Problem Solving",
-        "Communication",
-        "Collaboration",
-        "Time Management",
-        "Adaptability",
-        "Leadership",
-        "Project Management",
-        "Conflict Resolution",
-        "Multitasking",
-        "Google Suite",
-        "Microsoft Office"
-      ]
+      "keywords": ["Problem Solving", "Communication", "Collaboration", "Time Management", "Adaptability", "Leadership", "Project Management", "Conflict Resolution", "Multitasking", "Google Suite", "Microsoft Office"]
     },
     {
       "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "C++",
-        "C#",
-        "Python",
-        "Javascript",
-        "Java",
-        "GLSL",
-        "HLSL",
-        "HTML",
-        "CSS",
-        "Lua",
-        "GDScript"
-      ]
+      "keywords": ["C++", "C#", "Python", "Javascript", "Java", "GLSL", "HLSL", "HTML", "CSS", "Lua", "GDScript"]
     },
     {
       "name": "Software Engineering",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "AI",
-        "SCRUM",
-        "Kanban",
-        "Back End",
-        "Front End",
-        "Algorithms",
-        "Networking",
-        "Linear Algebra",
-        "Multithreading",
-        "Version Control",
-        "Data Structures",
-        "Agile Development",
-        "Algorithmic Design",
-        "Discrete Mathematics"
-      ]
+      "keywords": ["AI", "SCRUM", "Kanban", "Back End", "Front End", "Networking", "Linear Algebra", "Multithreading", "Version Control", "Data Structures", "Agile Development", "Algorithmic Design", "Discrete Mathematics"]
     },
     {
       "name": "Game Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Godot",
-        "OpenGL",
-        "Unity Engine",
-        "Unreal Engine",
-        "User Interface",
-        "Gameplay Design",
-        "Quality Assurance",
-        "Gameplay Programming",
-        "Rendering Techniques",
-        "Graphics Programming"
-      ]
+      "keywords": ["Godot", "OpenGL", "Unity Engine", "Unreal Engine", "User Interface", "Gameplay Design", "Quality Assurance", "Gameplay Programming", "Rendering Techniques", "Graphics Programming"]
     }
-
   ],
   "projects": [
     {
       "name": "MechaPunk Fury",
       "summary": "2D side-scrolling beat-em up capstone game where the player fights through hordes of various punk themed enemies.",
-      "highlights": ["SCRUM","OOP","C#","Unity","VFX","Technical Art","Shaders","Git","Visual Studio"],
+      "highlights": ["SCRUM", "OOP", "C#", "Unity", "VFX", "Technical Art", "Shaders", "Git", "Visual Studio"],
       "startDate": "5.23",
       "endDate": "8.23",
       "url": "https://vibble.itch.io/mechapunk-fury"
@@ -131,7 +80,7 @@
     {
       "name": "Web-Based Game Engine",
       "summary": "JavaScript game engine for designing 2D web games and learning rendering techniques.",
-      "highlights": ["Javascript","Git","Algorithms","Shader Pipeline","Multithreading","Engine Design"],
+      "highlights": ["Javascript", "Git", "Algorithms", "Shader Pipeline", "Multithreading", "Engine Design"],
       "startDate": "1.22",
       "endDate": "3.22"
     },
@@ -146,7 +95,7 @@
     {
       "name": "Tri-Campus Game Jam",
       "summary": "A game jam collaboration between the 3 University of Washington campus', Bothell, Seattle, and Tacoma",
-      "highlights": ["Project Management","Collaboration","Communication","Teaching","Trello","Marketing","Networking"],
+      "highlights": ["Project Management", "Collaboration", "Communication", "Teaching", "Trello", "Marketing", "Networking"],
       "startDate": "7.21",
       "endDate": "8.21",
       "url": "https://itch.io/jam/tri-campus-jam"
@@ -154,7 +103,7 @@
     {
       "name": "Fountain of Youth",
       "summary": "2019 SnoIsle Super Showcase winning project where a witch seeks out the fountain of youth in a 2D top down dungeon crawler",
-      "highlights": ["Agile","OOP","C#","Unity","UI","A*","AI","Audio","Git","Visual Studio"],
+      "highlights": ["Agile", "OOP", "C#", "Unity", "UI", "A*", "AI", "Audio", "Git", "Visual Studio"],
       "startDate": "3.19",
       "endDate": "5.19",
       "url": "https://www.youtube.com/watch?v=eKx4Qsao-Uw&t=311s"
@@ -162,7 +111,7 @@
     {
       "name": "Recluse",
       "summary": "2018 SnoIsle Super Showcase winning project where, in a 2D rouge-like, the player defends their dungeon from adventurers as an evil spider",
-      "highlights": ["Kanban","OOP","C#","Unity","UI","Project Management","Git","Visual Studio"],
+      "highlights": ["Kanban", "OOP", "C#", "Unity", "UI", "Project Management", "Git", "Visual Studio"],
       "startDate": "3.18",
       "endDate": "5.18",
       "url": "https://www.youtube.com/watch?v=frYv3EmL-8c&t=2s"
