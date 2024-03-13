@@ -23,6 +23,7 @@
   "work": [
     {
       "name": "The Northface",
+      "location": "Tulalip, WA",
       "position": "Stock Associate",
       "startDate": "7.22",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
@@ -38,15 +39,7 @@
       "startDate": "9.19",
       "endDate": "8.23",
       "GPA": "3.33",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "SnoIsle Foundation Super Showcase Winner",
-      "date": "6.18",
-      "awarder": "SnoIsle Foundation",
-      "summary": "First place winner for the SnoIsle Foundation Super Showcase, a regional competition where new game developers from across the Pacific Northwest come together to showcase their works"
+      "courses": ["Data Structures", "Algorithmic Design", "Linear Algebra", "Discrete Mathematics", "Artificial Intelligence", "Computer Graphics", "Game Development", "Engine Development", "Multithreading", "Networking", "Backend", "Frontend", "Full Stack"]
     }
   ],
   "skills": [
@@ -145,7 +138,8 @@
       "summary": "A game jam collaboration between the 3 University of Washington campus', Bothell, Seattle, and Tacoma",
       "highlights": ["Project Management","Collaboration","Communication","Teaching","Trello","Marketing","Networking"],
       "startDate": "7.21",
-      "endDate": "8.21"
+      "endDate": "8.21",
+      "url": "https://itch.io/jam/tri-campus-jam"
     },
     {
       "name": "Fountain of Youth",
@@ -158,7 +152,7 @@
     {
       "name": "Recluse",
       "summary": "2018 SnoIsle Super Showcase winning project where, in a 2D rouge-like, the player defends their dungeon from adventurers as an evil spider",
-      "highlights": ["Kanban","OOP","C#","Unity","UI","","Git","Visual Studio"],
+      "highlights": ["Kanban","OOP","C#","Unity","UI","Project Management","Git","Visual Studio"],
       "startDate": "3.18",
       "endDate": "5.18",
       "url": "https://www.youtube.com/watch?v=frYv3EmL-8c&t=2s"
