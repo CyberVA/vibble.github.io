@@ -2,7 +2,7 @@
 layout: page
 title: READ ME
 description: Notice for project page
-img: assets/img/LuisMiguelMaldonado.gif
+img: assets/img/LuisMiguelMaldonado.webp
 importance: 1
 category: work
 related_publications: false
