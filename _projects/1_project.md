@@ -24,4 +24,4 @@ For now, you can check out my projects on my [CV](https://vibbel.github.io/cv/#p
     </div>
 </div>
 
-~Cover image credits (the green pixelated tv): Luis Miguel Maldonado (TV)~
+Cover image credits (the green pixelated tv): Luis Miguel Maldonado (TV)

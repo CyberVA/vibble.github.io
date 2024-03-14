@@ -123,8 +123,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Ramblings of a mad man # blog_name will be displayed in your blog page
-blog_description: A simple space for me to ramble about projects and ideas
+blog_name: Vincent's Blog # blog_name will be displayed in your blog page
+blog_description: Check back later for more content! Currently migrating portfolio to this new website.
 permalink: /blog/:year/:title/
 
 # Pagination
