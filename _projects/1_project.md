@@ -2,7 +2,7 @@
 layout: page
 title: READ ME
 description: Notice for project page
-img: assets/img/12.jpg
+img: assets/img/tv_LuisMiguelMaldonado.gif
 importance: 1
 category: work
 related_publications: false
@@ -20,6 +20,6 @@ For now, a list of my projects is available on my [cv](https://vibbel.github.io/
 ### Thanks for your patience!
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/WorkingOnIt.gif" title="Working on it" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/WorkinOnIt.gif" title="Working on it" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
