@@ -13,9 +13,9 @@ related_publications: false
 *You might have noticed.... everything is **empty.*** Why is that?
 Currently, I'm in the process of migrating all of my work to this new portfolio website. Part of that effort will include having these project pages where I can go a *little* more in-depth on what I worked on.
 
-Doing this will take a little bit of time, and I intend to treat it as both a showcase of my work and a way to revisit, explore, and explain my process for some of my older projects. 
+Doing this will take time, and I intend to treat it as both a showcase of my work and a way to revisit, explore, and explain my process for some of my older projects. 
 
-For now, a list of my projects is available on my [cv](https://vibbel.github.io/cv/#projects-1).
+For now, you can check out my projects on my [CV](https://vibbel.github.io/cv/#projects-1).
 
 ### Thanks for your patience!
 <div class="row justify-content-sm-center">
@@ -23,3 +23,5 @@ For now, a list of my projects is available on my [cv](https://vibbel.github.io/
         {% include figure.liquid path="assets/img/WorkinOnIt.gif" title="Working on it" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+~Cover image credits (the green pixelated tv): Luis Miguel Maldonado (TV)~
