@@ -26,7 +26,15 @@
       "location": "Tulalip, WA",
       "position": "Stock Associate",
       "startDate": "7.22",
-      "summary": "● Stocked, assembled, and maintained store merchandise for The Northface, an outdoor clothing and equipment brand\n● Kept detailed audits of store merchandise for expedient access and inventory assessment.\n● Provided customers with product knowledge to give a personalized and welcoming shopping experience.\n● Cleaned, detailed, and prepared the store daily to guarantee safe and efficient operations."
+      "summary": "Stocked, assembled, and maintained store merchandise for The Northface, an outdoor clothing and equipment brand"
+    },
+    {
+      "name": "Husky Game Dev",
+      "location": "Bothell, WA",
+      "position": "President & Founder",
+      "startDate": "11.19",
+      "endDate": "09.21",
+      "summary": "Created and lead a student organization dedicated towards career advancement and industry networking within the game development industry"
     },
     {
       "name": "Best Buy Geek Squad",
@@ -35,6 +43,14 @@
       "startDate": "7.21",
       "endDate": "10.21",
       "summary": "Diagnosed and repaired a diverse collection of devices for Geek Squad clients"
+    },
+    {
+      "name": "Lakewood School District",
+      "location": "Arlington, WA",
+      "position": "Assistant IT",
+      "startDate": "6.17",
+      "endDate": "9.17",
+      "summary": "Assisted with the installation and documentation of IT infrastructure throughout the district and its new buildings"
     }
   ],
   "education": [
