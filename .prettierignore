@@ -8,3 +8,6 @@ _data/*.yml
 _pages/cv.md
 _pages/about.md
 assets/json/resume.json
+archive/*
+.vscode/*
+_projects/*
